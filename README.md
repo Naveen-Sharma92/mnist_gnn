@@ -81,7 +81,8 @@ The baseline model achieves an accuracy of approximately **84%**. While not stat
 
 The evaluation script generates detailed visualizations of model performance, such as:
 
-*(Here you can add screenshots of your own generated plots, like the confusion matrix or the sample predictions grid.)*
+<img width="997" height="836" alt="image" src="https://github.com/user-attachments/assets/ca9a528b-707f-4631-b75c-726d7bdaaae1" />
+
 <img width="1362" height="640" alt="image" src="https://github.com/user-attachments/assets/1581c103-e5cb-4b96-a4a3-2802284cad9a" />
 
 ## Future Improvements
